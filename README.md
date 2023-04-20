@@ -51,7 +51,13 @@ N/A
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Demo link](https://travellers-hub.onrender.com)
+[Demo link](https://illustrious-queijadas-487b03.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Video link <a name="live-demo"></a>
+
+[Demo link](https://www.loom.com/share/c556d081473344c0a828dbc2593a8571)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +106,7 @@ You can deploy this project using:
 Example:
 
 ```sh
- renderer or gh-pages
+ renderer , gh-pages or netlify
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
