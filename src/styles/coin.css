@@ -1,5 +1,4 @@
 
-
 .coin-card {
   border: 1px solid  #7b1fa2;
   background-color: #9c27b0;
@@ -7,6 +6,7 @@
   flex-direction: column;
   text-align: right;
   padding: 2.2%;
+  padding-right: 8%;
   border-radius: 4px;
   margin-left: 5%;
   outline: none;
@@ -27,10 +27,6 @@
   font-weight: 700;
 }
 
-.coin-card svg {
-  margin-left: 80%;
-}
-
 .coin-symbol {
   color: #e5e7e9;
   font-size: 16px;
@@ -46,10 +42,4 @@
 .coin-card:nth-child(4n),
 .coin-card:nth-child(4n+1) {
   background-color: #7b1fa2;
-}
-
-@media (max-width: 600px) {
-  .coin-1 h2 {
-    font-size: 15px;
-  }
 }
